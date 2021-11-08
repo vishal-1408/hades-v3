@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Hades</string>
+    <string name="or">OR</string>
+    <string name="hades">HADES</string>
+    <string name="sign_in">Sign in</string>
+    <string name="don_t_have_an_account_sign_up">Don’t have an account? Sign up</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="arrow">ARROW</string>
+    <string name="already_have_an_account_signin">Already have an account? Signin</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_text">Sign up</string>
 </resources>
